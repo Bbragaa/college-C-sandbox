@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "aula12.C": "cpp",
+        "aula12_ex1.C": "cpp",
+        "aula12_ex1 copy.C": "cpp",
+        "aula12_ex2.C": "cpp",
+        "aula12_ex2 copy.C": "cpp",
+        "aula12_ex3.C": "cpp",
+        "aula12_ex3 copy.C": "cpp",
+        "aula12_ex4.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}

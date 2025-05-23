@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "sandbox.C": "cpp",
+    "palindromo.C": "cpp",
+    "fibonacci.C": "cpp",
+    "structSimple.C": "cpp",
+    "sistema.C": "cpp",
+    "howManyVowels.C": "cpp",
+    "howManyUppercase.C": "cpp",
+    "daery.C": "cpp",
+    "imprimirPtrArray.C": "cpp",
+    "addPenis.C": "cpp",
+    "listaDeTarefas.C": "cpp"
+  }
+}
