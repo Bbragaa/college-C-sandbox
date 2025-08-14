@@ -1,0 +1,19 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.out
+
+# Ignore any 'output' folder in any subdirectory
+output/
+
+# Project-specific ignores
+Semestre 3/Ciclo 3/output/
+
+# Optional: ignore temporary/backup files
+*.log
+*.tmp
+*.bak
+*.swp
