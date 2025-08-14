@@ -14,6 +14,7 @@
     "WordSearch.C": "cpp",
     "Append.C": "cpp",
     "FullCounter.C": "cpp",
-    "MatrixReadNPrint.C": "cpp"
+    "MatrixReadNPrint.C": "cpp",
+    "wila.C": "cpp"
   }
 }
