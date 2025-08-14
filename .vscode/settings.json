@@ -1,6 +1,19 @@
 {
   "files.associations": {
     "sandbox.C": "cpp",
-    "aula12_ex3.C": "cpp"
+    "aula12_ex3.C": "cpp",
+    "RandW.C": "cpp",
+    "RandW copy.C": "cpp",
+    "RandWChar.C": "cpp",
+    "RChar.C": "cpp",
+    "RString.C": "cpp",
+    "WChar.C": "cpp",
+    "WString.C": "cpp",
+    "Copy.C": "cpp",
+    "LineCounter.C": "cpp",
+    "WordSearch.C": "cpp",
+    "Append.C": "cpp",
+    "FullCounter.C": "cpp",
+    "MatrixReadNPrint.C": "cpp"
   }
 }
